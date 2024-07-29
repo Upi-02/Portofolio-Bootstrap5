@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 10rem;
+  /* background-color: #e2edff; */
+  background-image: url('../Luthfi.JPG');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 0 -100px;
+}
+.jumbotron img{
+  border: 2px solid;
+}
+.jumbotron h1, .jumbotron p{
+  text-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+
+#projects {
+  background-color: #e2edff;
+}
+section{
+  padding-top: 5rem;
+}
